@@ -1,3 +1,5 @@
+
+## Basic Operation of GitHub
 **Four essentials**
 - repositories
 - branches
@@ -30,8 +32,8 @@ Once you are satisfied with the changes, click the [Create Pull Request]
 
 4. **Merge your Pull Request** - merging your "readme-edits" branch into the branch, and delete this feature branch.
 
-Notice:
+Notice  
 README -- add some description and information about your project
 
-References
+References  
 https://guides.github.com/activities/hello-world/
